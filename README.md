@@ -124,5 +124,21 @@ This registry anchors cryptographic proof-of-existence records to the Texitcoin 
 The canonical TXC anchoring specification is defined here:
 
 - TXC Anchor Standard:  
-  https://github.com/CRYPTOEXIT/immutable-proof-registry/tree/main/spec/txc-anchor-standard.md
+  https://github.com/CRYPTOTEXIT/immutable-proof-registry/tree/main/spec/txc-anchor-standard.md
+
+## Verification
+
+To independently verify a registry entry:
+
+1. Obtain the original file or data.
+2. Compute its SHA-256 hash (raw 32 bytes).
+3. Locate the corresponding TXC transaction.
+4. Confirm the OP_RETURN payload equals the SHA-256 digest exactly.
+5. Verify the transaction confirmation timestamp on the Texitcoin blockchain.
+
+No metadata, identifiers, or formatting are stored on-chain.
+Only the cryptographic hash is anchored.
+
+  
+
 
