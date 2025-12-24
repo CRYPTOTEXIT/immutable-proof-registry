@@ -1,3 +1,12 @@
+Status: Frozen (v1.0)
+
+This README contains overview, background, and explanatory material.
+It is not the authoritative source for protocol rules or validation logic.
+
+Authoritative specification:
+→ SPEC.md (v1.0)
+
+
 
 # Immutable Proof Registry
 
