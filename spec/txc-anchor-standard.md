@@ -1,3 +1,9 @@
+Immutable Proof Registry Specification
+Version: v1.0
+Status: Frozen
+Effective date: Dec 24, 2025
+
+
 # TXC Anchor Standard (Immutable Proof Registry)
 
 ## Neutral OP_RETURN Payload Rule
