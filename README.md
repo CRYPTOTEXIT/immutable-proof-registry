@@ -139,5 +139,19 @@ To independently verify a registry entry:
 No metadata, identifiers, or formatting are stored on-chain.
 Only the cryptographic hash is anchored.
 
+
+## Governance & Neutrality
+
+The Immutable Proof Registry operates as a neutral, content-agnostic registry.
+
+The registry does not assert:
+- Ownership
+- Authorship
+- Copyright
+- Legal rights
+- Economic value
+
+Only cryptographic proof-of-existence is recorded.
+
   
 
