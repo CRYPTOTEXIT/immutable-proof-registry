@@ -6,6 +6,8 @@ It is not the authoritative source for protocol rules or validation logic.
 Authoritative specification:
 → SPEC.md (v1.0)
 
+NOTE: The definitive rules for registry entries, OP_RETURN payloads, and verification are defined in SPEC.md.
+
 
 
 # Immutable Proof Registry
