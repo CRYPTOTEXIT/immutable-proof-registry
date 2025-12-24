@@ -116,3 +116,13 @@ Registry entries are informational records only.
 This project is live and operational.
 
 Registry entries are added through a controlled, manual process to ensure accuracy, consistency, and integrity.
+
+## TXC Anchor Standard
+
+This registry anchors cryptographic proof-of-existence records to the Texitcoin (TXC) blockchain using a neutral OP_RETURN payload rule.
+
+The canonical TXC anchoring specification is defined here:
+
+- TXC Anchor Standard:  
+  https://github.com/CRYPTOEXIT/immutable-proof-registry/tree/main/spec/txc-anchor-standard.md
+
